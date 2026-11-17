@@ -11,3 +11,7 @@ state.json
 _smoke/
 video_frames/
 video_assets/
+
+*.exe
+*.zip
+*.sha256
